@@ -1,0 +1,374 @@
+*{
+    background: #121212;
+    color: azure;
+}
+
+.ul1{
+    position: absolute;
+    width: 156px;
+    height: 23px;
+    left: 100px;
+    top: 85px;
+    text-decoration: none;
+}
+
+.ul2{
+    position: absolute;
+    width: 74px;
+    height: 26px;
+    left: 553px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;    
+}
+
+.ul3{
+    position: absolute;
+    width: 88px;
+    height: 26px;
+    left: 659px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.ul4{
+    position: absolute;
+width: 82px;
+height: 26px;
+left: 779px;
+top: 83px;
+text-decoration: none;
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+
+
+
+color: #FFFFFF;
+}
+
+
+.ul5{
+    position: absolute;
+    width: 78px;
+    height: 26px;
+    left: 893px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    
+    
+    
+    color: #FFFFFF;
+}
+
+.ul6{
+    position: absolute;
+    width: 74px;
+    height: 26px;
+    left: 1003px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+   
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.ul7{
+    position: absolute;
+    width: 131px;
+    height: 26px;
+    left: 1109px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+  
+    
+    
+    color: #FFFFFF;
+    
+}
+
+.ul8{
+    position: absolute;
+    width: 79px;
+    height: 26px;
+    left: 1272px;
+    top: 83px;
+    text-decoration: none;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+
+div h1{
+    position: absolute;
+width: 440px;
+height: 285px;
+left: 100px;
+top: 285px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 88px;
+line-height: 107.6%;
+/* or 95px */
+
+
+color: #FFFFFF;
+}
+
+header div img{
+    position: absolute;
+    width: 681px;
+    height: 528px;
+    left: 670px;
+    top: 229px;
+    
+}
+
+div p{
+    position: absolute;
+    width: 464px;
+    height: 52px;
+    left: 100px;
+    top: 883px;
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 107.6%;
+    /* or 26px */
+    
+    
+    color: #FFFFFF;
+    
+}
+
+div h4{
+    position: absolute;
+width: 120px;
+height: 26px;
+left: 100px;
+top: 1320px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 107.6%;
+/* identical to box height, or 26px */
+
+
+color: #FFFFFF;
+}
+
+div h5{
+    position: absolute;
+width: 206px;
+height: 26px;
+left: 100px;
+top: 1362px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 107.6%;
+/* identical to box height, or 26px */
+
+
+color: #FFFFFF;
+}
+
+div h6{
+    position: absolute;
+    width: 242px;
+    height: 132px;
+    left: 100px;
+    top: 1404px;
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 138.6%;
+    /* or 22px */
+    
+    
+    color: #FFFF
+}
+
+.view{
+    position: absolute;
+    width: 200px;
+    height: 64px;
+    left: 99px;
+    top: 1604px;
+}
+
+.emerald{
+    position: absolute;
+    width: 367px;
+    height: 584px;
+    left: 484px;
+    top: 1084px;    
+}
+
+
+.emerald-head{
+    position: absolute;
+    width: 320px;
+    height: 30px;
+    left: 481px;
+    top: 1698px;
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 107.6%;
+    /* or 30px */
+    
+    
+    color: #FFFFFF;    
+}
+
+.emerald-text{
+    position: absolute;
+    height: 170px;
+    left: 481px;
+    right: 614px;
+    top: 1744px;
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+    /* or 21px */
+    
+    
+    color: #FFFFFF;    
+}
+
+.emviewall{
+    position: absolute;
+width: 69px;
+height: 17px;
+left: 481px;
+top: 1934px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 107.6%;
+/* or 17px */
+
+
+color: #FFFFFF;
+}
+
+.ultrasport{
+    position: absolute;
+width: 367px;
+height: 584px;
+left: 873px;
+top: 1084px;
+}
+
+.ultrasport-head{
+    position: absolute;
+width: 155px;
+height: 30px;
+left: 873px;
+top: 1698px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 107.6%;
+/* or 30px */
+
+
+color: #FFFFFF;
+}
+
+.ultrasport-text{
+    position: absolute;
+    height: 170px;
+    left: 873px;
+    right: 222px;
+    top: 1744px;
+    
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.6%;
+    /* or 21px */
+    
+    
+    color: #FFFFFF;    
+}
+
+.ulviewall{
+    position: absolute;
+width: 69px;
+height: 17px;
+left: 880px;
+top: 1934px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 107.6%;
+/* or 17px */
+
+
+color: #FFFFFF;
+
+}
